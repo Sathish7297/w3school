@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+ ::-webkit-scrollbar{
+             height:2px;
+         }
 
 @media (max-width:600px){
     
@@ -1144,9 +1147,7 @@
           
           overflow:auto;
           white-space: nowrap;
-         ::-webkit-scrollbar{
-             width:2px;
-         }
+        
         
           
           

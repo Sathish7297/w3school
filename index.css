@@ -294,7 +294,6 @@
         padding-top: 70px;
         color: white;
         font-size: 48px;
-        overflow: auto;
     }
     .a10 h3{
         text-align: center;
@@ -1142,7 +1141,7 @@
           top: 50px;
       
           
-          overflow: auto;
+          overflow:hidden;
           white-space: nowrap;
         
           

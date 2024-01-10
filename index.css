@@ -3,12 +3,18 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
 /* ::-webkit-scrollbar{
   
 }
 ::-webkit-scrollbar-track{
   background-color: transparent;
 } */
+=======
+ .navigation::-webkit-scrollbar{
+             height:2px;
+         }
+>>>>>>> 219790c481d2ba7612a7d656b11ed22486d9e4c9
 
 @media (max-width:600px){
     
@@ -1147,9 +1153,15 @@
           position: fixed;
           top: 50px;
       
+<<<<<<< HEAD
           display: none !important;
           overflow:hidden;
+=======
+          
+          overflow:auto;
+>>>>>>> 219790c481d2ba7612a7d656b11ed22486d9e4c9
           white-space: nowrap;
+        
         
           
           

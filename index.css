@@ -109,10 +109,10 @@
     height: 40px;
     position: fixed;
     top: 50px;
-    display: none !important;
+    /* display: none !important; */
     width: 100%;
     overflow-x: auto;
-    white-space: nowrap;
+    /* white-space: nowrap; */
     overflow-y: hidden;
   
     

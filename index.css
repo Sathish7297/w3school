@@ -104,12 +104,12 @@
     display: block;
     text-align: start;
   }
-  .navigation{
+ .header2 .navigation{
     background-color: #282a35;
     height: 40px;
     position: fixed;
     top: 50px;
-/* display: none !important; */
+    display: none !important;
     width: 100%;
     overflow-x: auto;
     white-space: nowrap;
@@ -149,7 +149,7 @@
     background-color:rgb(40,42,53);
      height: 400px;  
      width: 100%;
-     display: none;
+     /* display: none; */
      
 
      }
